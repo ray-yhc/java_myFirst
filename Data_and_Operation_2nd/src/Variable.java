@@ -4,5 +4,10 @@ public class Variable {
 		int a = 1;
 		System.out.println(a);
 		
+		double b = 1.1;
+		System.out.println(b);
+		
+		String c = "raycho";
+		System.out.println(c);
 	}
 }
