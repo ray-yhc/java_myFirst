@@ -4,6 +4,8 @@ public class Elevator {
 	String _id;
 	public Elevator(String id) {
 		this._id = id;
+        
+        System.out.println("elev OK");
 	}
 
 	public Boolean callForUp(int stopFloor) {
